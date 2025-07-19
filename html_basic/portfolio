@@ -1,68 +1,77 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Skhumbuzo Masemola - Personal Portfolio</title>
+  <meta charset="utf-8">
+  <title>Skhumbuzo Masemola - Personal Portfolio</title>
 </head>
 <body>
-    <header>
-  <h1>Skhumbuzo Masemola</h1>
-  <p>Passionate front-end developer in training on building clean, user-friendly web experiences.</p>
-</header>
+
+  <!-- Header -->
+  <header>
+    <h1>Skhumbuzo Masemola</h1>
+    <p>Front-End Developer | Passionate about clean code & user-first experiences</p>
+  </header>
+
+  <!-- Navigation -->
   <nav>
     <ul>
-    <li a href="#introduction">Introduction</li>
-    <li a href="#projects">Projects</li>
-    <li a href="#about me">About Me</li>
-    <li a href="#contact">Contact</li>
-</ul>
-</nav>
-<section id="introduction">
-  <h2>Introduction</h2>
-  <p>Hello! I'm Skhumbuzo Masemola, an aspiring front-end developer learning HTML, CSS, JavaScript, React, and more. I'm passionate about creating clean and functional user interfaces.</p>
-</section>
+      <li><a href="#introduction">Introduction</a></li>
+      <li><a href="#projects">Projects</a></li>
+      <li><a href="#about">About Me</a></li>
+      <li><a href="#contact">Contact</a></li>
+    </ul>
+  </nav>
 
-<section id="projects">
-  <h2>Projects</h2>
+  <!-- Introduction Section -->
+  <section id="introduction">
+    <h2>Introduction</h2>
+    <p>Hello! I'm Skhumbuzo, a self-taught front-end developer based in South Africa. I enjoy turning complex problems into simple, beautiful, and intuitive designs using HTML, CSS, JavaScript, TypeScript, React, and Tailwind CSS.</p>
+  </section>
 
-  <article class="project">
-    <h3>Portfolio Website</h3>
-    <p>A personal website to showcase my journey and projects.</p>
-    <a href="https://github.com/skhumbuzo/My_First_Portfolio" target="_blank">View Project</a>
-  </article>
+  <!-- Projects Section -->
+  <section id="projects">
+    <h2>Projects</h2>
 
-  <article class="project">
-    <h3>Weather App</h3>
-    <p>A simple app that fetches real-time weather data using a public API.</p>
-    <a href="https://github.com/skhumbuzo/weather-app" target="_blank">View Project</a>
-  </article>
+    <article class="project">
+      <h3>ALX Listing App</h3>
+      <p>An Airbnb-style application built with Next.js and Tailwind CSS.</p>
+      <a href="https://github.com/skhumbuzo/alx-listing-app" target="_blank">View Project</a>
+    </article>
 
-</section>
+    <article class="project">
+      <h3>Weather App</h3>
+      <p>A simple weather app using the OpenWeather API and JavaScript.</p>
+      <a href="https://github.com/skhumbuzo/weather-app" target="_blank">View Project</a>
+    </article>
 
-<section id="about">
-  <h2>About Me</h2>
-  <p>I am currently part of the ALX Software Engineering program, learning web development, programming fundamentals, and real-world project building.</p>
-  <p>Skills:</p>
-  <ul>
-    <li>HTML, CSS, JavaScript, TypeScript</li>
-    <li>React, Next.js, Tailwind CSS</li>
-    <li>Git, GitHub, VS Code</li>
-  </ul>
-  <p>Hobbies include coding, reading tech blogs, and building small web apps in my free time.</p>
-</section>
+  </section>
 
-<section id="contact">
-  <h2>Contact</h2>
-  <p>You can reach me at: <a href="mailto:your.email@example.com">your.email@example.com</a></p>
-  <p>Connect with me:</p>
-  <ul>
-    <li><a href="https://www.linkedin.com/in/your-linkedin" target="_blank">LinkedIn</a></li>
-    <li><a href="https://github.com/skhumbuzo" target="_blank">GitHub</a></li>
-  </ul>
-</section>
-<footer>
-  <p>&copy; 2024 Skhumbuzo Masemola</p>
-</footer>
+  <!-- About Me Section -->
+  <section id="about">
+    <h2>About Me</h2>
+    <p>I am a highly motivated developer focused on building accessible, user-friendly web applications. I enjoy learning new technologies and contributing to open-source projects.</p>
+    <ul>
+      <li>Languages: HTML, CSS, JavaScript, TypeScript</li>
+      <li>Frameworks: React, Next.js</li>
+      <li>Tools: Git, GitHub, Tailwind CSS, VS Code</li>
+    </ul>
+  </section>
+
+  <!-- Contact Section -->
+  <section id="contact">
+    <h2>Contact</h2>
+    <p>Feel free to reach out to me via email or connect with me on social media:</p>
+    <ul>
+      <li><a href="mailto:skhumbuzo@example.com">Email Me</a></li>
+      <li><a href="https://www.linkedin.com/in/skhumbuzo" target="_blank">LinkedIn</a></li>
+      <li><a href="https://github.com/skhumbuzo" target="_blank">GitHub</a></li>
+    </ul>
+  </section>
+
+  <!-- Footer -->
+  <footer>
+    <p>&copy; 2024 Skhumbuzo Masemola</p>
+  </footer>
+
 </body>
 </html>
