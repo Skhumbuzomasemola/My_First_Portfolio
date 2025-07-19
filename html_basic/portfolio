@@ -9,7 +9,7 @@
   <!-- Header -->
   <header>
     <h1>Skhumbuzo Masemola</h1>
-    <p>Front-End Developer | Passionate about clean code & user-first experiences</p>
+    <p>Front-End Developer | Building user-focused, modern web applications</p>
   </header>
 
   <!-- Navigation -->
@@ -25,7 +25,7 @@
   <!-- Introduction Section -->
   <section id="introduction">
     <h2>Introduction</h2>
-    <p>Hello! I'm Skhumbuzo, a self-taught front-end developer based in South Africa. I enjoy turning complex problems into simple, beautiful, and intuitive designs using HTML, CSS, JavaScript, TypeScript, React, and Tailwind CSS.</p>
+    <p>Hello! I'm Skhumbuzo, a front-end developer passionate about building clean and responsive user interfaces. I specialize in HTML, CSS, JavaScript, and React.</p>
   </section>
 
   <!-- Projects Section -->
@@ -34,33 +34,32 @@
 
     <article class="project">
       <h3>ALX Listing App</h3>
-      <p>An Airbnb-style application built with Next.js and Tailwind CSS.</p>
+      <p>An Airbnb-style app built with Next.js and Tailwind CSS.</p>
       <a href="https://github.com/skhumbuzo/alx-listing-app" target="_blank">View Project</a>
     </article>
 
     <article class="project">
       <h3>Weather App</h3>
-      <p>A simple weather app using the OpenWeather API and JavaScript.</p>
+      <p>Weather app using OpenWeather API and JavaScript.</p>
       <a href="https://github.com/skhumbuzo/weather-app" target="_blank">View Project</a>
     </article>
-
   </section>
 
   <!-- About Me Section -->
   <section id="about">
     <h2>About Me</h2>
-    <p>I am a highly motivated developer focused on building accessible, user-friendly web applications. I enjoy learning new technologies and contributing to open-source projects.</p>
+    <p>I am a self-taught developer who loves to learn and build projects. I enjoy working with modern tools like React, TypeScript, and Tailwind.</p>
     <ul>
-      <li>Languages: HTML, CSS, JavaScript, TypeScript</li>
-      <li>Frameworks: React, Next.js</li>
-      <li>Tools: Git, GitHub, Tailwind CSS, VS Code</li>
+      <li>HTML, CSS, JavaScript, TypeScript</li>
+      <li>React, Next.js, Tailwind CSS</li>
+      <li>Git, GitHub, VS Code</li>
     </ul>
   </section>
 
   <!-- Contact Section -->
   <section id="contact">
     <h2>Contact</h2>
-    <p>Feel free to reach out to me via email or connect with me on social media:</p>
+    <p>Get in touch with me:</p>
     <ul>
       <li><a href="mailto:skhumbuzo@example.com">Email Me</a></li>
       <li><a href="https://www.linkedin.com/in/skhumbuzo" target="_blank">LinkedIn</a></li>
@@ -70,7 +69,7 @@
 
   <!-- Footer -->
   <footer>
-    <p>&copy; 2024 Skhumbuzo Masemola</p>
+    <p>&copy; 2025 Skhumbuzo Masemola</p>
   </footer>
 
 </body>
